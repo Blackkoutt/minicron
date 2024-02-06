@@ -1,0 +1,22 @@
+18:19:ls -al|wc -c:2
+18:19:ls -al|wcc -c:2
+18:19:ls -l|wcc:2
+18:19:ls -l|greap|wc -c:2
+18:19:ls -al:2
+18:19:ls -al:0
+18:19:lss:2
+18:19:ps -aux:0
+18:19:ls -al|ls -3:2
+18:122:chmod 000 /home/mateusz/grep.txt:0
+:12:mv /home/mateusz/przyklad.txt /home/mateusz/katalog2:0
+18:19:ls -al|wc -c:4
+18:19:ls -al|grep 4096:0
+18: :ls POSIXTHREADS:0
+18:19:ps -aux|wc -c:2
+18:19:mkdir testDIR2:2
+18:19:ls -l| :2
+18:19: |ls -l:2
+18:19:             :2
+18:19:ls-l|wc     -c:2
+aaa:12:ls -al:sss
+18:19:LS:2
